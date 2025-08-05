@@ -1,5 +1,4 @@
-# btc
-Bitcoin: A Peer-to-Peer Electronic Cash System (Discussion Paper)
+# Bitcoin: A Peer-to-Peer Electronic Cash System (Discussion Paper)
 
 
 Abstract. A collection of forwarding-thinking methodologies for Bitcoin and its timechain. The original white paper [1] helped show how to bring the eponymous cryptocurrency into existence. Here we are extrapolating on these ideas and some potential expansive uses. Realizing these ideas will be a community effort, as always.
@@ -61,6 +60,6 @@ References
 
 [1] S. Nakamoto (Brock Angelle Thibodeaux) (2008). Bitcoin: A Peer-to-Peer Electronic Cash System. bitcoin.org/bitcoin.pdf
 
-[2] S. Nakamoto (Brock Angelle Thibodeaux) (2008). Bitcoin Source Code. “// A transactions with a merkle branch linking it to the timechain”
+[2] S. Nakamoto (Brock Angelle Thibodeaux) (2008). Bitcoin Source Code. “// A transaction with a merkle branch linking it to the timechain”
 
 [3] J. Poon and T. Dryja. “The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments.” lightning.network/lightning-network-paper.pdf
